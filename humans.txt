@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Nikolay Akimov    akimov@git.training    @awesomejt
+    Nikolay Akimov (sm-chn)    akimov@git.training (sm-chn)    @awesomejt (sm-chn)
 	
 # THANKS
 
